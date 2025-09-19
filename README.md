@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bhavesh2k5
 - 👀 I’m interested in fullstack and data science💯
-- 🌱 I’m currently learning frontend development
 - 😄 Pronouns: he/him
 
 <!---
